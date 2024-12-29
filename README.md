@@ -43,6 +43,8 @@ deactivate
 (activate virtual env)
 source {path to dir}/flux-text2img/venv/bin/activate
 
+(run project)
+jupyter lab
 
 ## Running Cells
 
